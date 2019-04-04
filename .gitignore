@@ -6,3 +6,6 @@ __pycache__/
 
 # Environments
 venv/
+
+# Flask stuff
+.flaskenv
