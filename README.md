@@ -4,7 +4,7 @@ Repository to upload files created in The Flask Mega Tutorial from Miguel Grinbe
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 - [x] Chapter 1: Hello, World!
-- [x] Chapter 2: Templates (this article)
+- [x] Chapter 2: Templates
 - [ ] Chapter 3: Web Forms
 - [ ] Chapter 4: Database
 - [ ] Chapter 5: User Logins
