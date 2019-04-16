@@ -18,9 +18,9 @@
     "default": {
         "alembic": {
             "hashes": [
-                "sha256:505d41e01dc0c9e6d85c116d0d35dbb0a833dcb490bf483b75abeb06648864e8"
+                "sha256:40b9a619aa5f25ea1e1508adcda88b33704ef28e02c9cfa6471e5c772ecf0829"
             ],
-            "version": "==1.0.8"
+            "version": "==1.0.9"
         },
         "click": {
             "hashes": [
@@ -80,9 +80,9 @@
         },
         "mako": {
             "hashes": [
-                "sha256:04092940c0df49b01f43daea4f5adcecd0e50ef6a4b222be5ac003d5d84b2843"
+                "sha256:0728c404877cd4ca72c409c0ea372dc5f3b53fa1ad2bb434e1d216c0444ff1fd"
             ],
-            "version": "==1.0.8"
+            "version": "==1.0.9"
         },
         "markupsafe": {
             "hashes": [
@@ -200,9 +200,9 @@
         },
         "sqlalchemy": {
             "hashes": [
-                "sha256:d5432832f91d200c3d8b473a266d59442d825f9ea744c467e68c5d9a9479fbce"
+                "sha256:91c54ca8345008fceaec987e10924bf07dcab36c442925357e5a467b36a38319"
             ],
-            "version": "==1.3.2"
+            "version": "==1.3.3"
         },
         "werkzeug": {
             "hashes": [
