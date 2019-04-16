@@ -6,7 +6,7 @@ https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 - [x] Chapter 1: Hello, World!
 - [x] Chapter 2: Templates
 - [x] Chapter 3: Web Forms
-- [ ] Chapter 4: Database
+- [x] Chapter 4: Database
 - [ ] Chapter 5: User Logins
 - [ ] Chapter 6: Profile Page and Avatars
 - [ ] Chapter 7: Error Handling
